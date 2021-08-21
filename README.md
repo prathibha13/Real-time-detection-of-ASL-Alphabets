@@ -25,8 +25,7 @@ Since the dataset is very large, it will take much more time and resources to tr
 
 ### Conclusion:
 
-The proposed model is doing good at predicting the letters. But still, we can see a lot of fluctuation in the real-time predictions. 
-Even a slight hand movement is making the neural network to change its predictions. This is also called as ‘flickering'.
+The proposed model is doing good at predicting the letters. As we increase the number of epochs the accuracy increases and the loss decreases. The train and validation accuracy at the 9th epoch is 99.23 and 99.48 respectively with loss values of 0.0009 and 0.0005.
 
 ### Future work: 
 - Creating full sentences  instead of just alphabets
