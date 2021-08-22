@@ -19,6 +19,21 @@ Since the dataset is very large, it will take much more time and resources to tr
 - OpenCV : For processing images and real-time capture
 - CNN : Artificial neural networks used to process pixel data
 
+### Work flow:
+
+- The necessary packages are loaded.
+- User is given the liberty to choose the number of iterations to train the CNN model. 
+- The dataset of images with respective paths is loaded and independent and dependent variables are assigned to X and y respectively.
+- The dataset is then split for training and testing on which the CNN model is built.
+- Two functions, fit (for training the model on the train dataset) and validation (for checking the models performance) are used.
+- The functions compute and return the loss and accuracy of training and validatin dataset on the model.
+- These parameters are appended to lists on each epoch so that they can be plotted and visualised
+- Accuracy and loss plots are then plotted using matplotlib
+ 
+**Testing the model**
+- The image that has to be tested is loaded using cv2 package,it is resized and preprocessed to match the format of the images in the train data.
+- The image is then provided to the model and final predictions are made.
+
 ### Result:
 
 **Link to a live demonstration of the working of the project** - https://drive.google.com/file/d/1XaIQvxkScxhWYloBcUy3XTcHgES-2YFp/view
@@ -31,3 +46,6 @@ The proposed model is doing good at predicting the letters. As we increase the n
 - Creating full sentences  instead of just alphabets
 - Customise model for all sign languages
 - Creating automatic editors
+
+
+
