@@ -40,6 +40,7 @@ Since the dataset is very large, it will take much more time and resources to tr
 - Realtime.py file enables us to make predictions of sign language alphabets in real time
 
 ### Result:
+![image](https://user-images.githubusercontent.com/73699314/135566605-d2edd76e-790d-462e-8a62-e2d49229109a.png)
 
 
 **Link to a live demonstration of the working of the project** - https://drive.google.com/file/d/1XaIQvxkScxhWYloBcUy3XTcHgES-2YFp/view
