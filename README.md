@@ -36,10 +36,11 @@ Since the dataset is very large, it will take much more time and resources to tr
 - The image that has to be tested is loaded using cv2 package,it is resized and preprocessed to match the format of the images in the train data.
 - The image is then provided to the model and final predictions are made.
 
-> CNN models.py contains the code to build the model and  obtaining the loss and accuracy plots
-> Realtime.py file enables us to make predictions of sign language alphabets in real time
+- CNN models.py contains the code to build the model and  obtaining the loss and accuracy plots
+- Realtime.py file enables us to make predictions of sign language alphabets in real time
 
 ### Result:
+
 
 **Link to a live demonstration of the working of the project** - https://drive.google.com/file/d/1XaIQvxkScxhWYloBcUy3XTcHgES-2YFp/view
 
