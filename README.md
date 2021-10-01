@@ -41,7 +41,8 @@ Since the dataset is very large, it will take much more time and resources to tr
 
 ### Result:
 ![image](https://user-images.githubusercontent.com/73699314/135566605-d2edd76e-790d-462e-8a62-e2d49229109a.png)
-
+![image](https://user-images.githubusercontent.com/73699314/135566713-e6a4f7ae-9440-46e1-a7dd-0387b6465715.png)
+![image](https://user-images.githubusercontent.com/73699314/135566722-295be8a3-3b86-4ffa-9180-2eefae850530.png)
 
 **Link to a live demonstration of the working of the project** - https://drive.google.com/file/d/1XaIQvxkScxhWYloBcUy3XTcHgES-2YFp/view
 
